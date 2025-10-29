@@ -1,0 +1,5 @@
+# Node / IDE / OS ignores
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
